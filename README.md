@@ -1,5 +1,12 @@
 # Dokumentasi Proyek UAS Teknik Kompilasi
 
+### Identitas
+
+- **Nama** : MARTIN RIVALDO MANURUNG
+- **NIM** : 231011400295
+- **Mata Kuliah** : Teknik Kompilasi
+- **Dosen Pengampu** : AGUNG PERDANANTO S.Kom, M.Kom
+
 ## 1. Gambaran Umum
 
 Proyek ini mensimulasikan tahapan utama proses kompilasi untuk konstruksi **deklarasi fungsi/metode**. Implementasi dibuat menggunakan bahasa **Go** dan menampilkan empat tahap utama:
